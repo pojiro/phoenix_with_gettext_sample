@@ -1,5 +1,11 @@
 # MyApp
 
+This repository shows how to change locale with gettext.
+If you'd like to know more info about it, read the explanation on my website.
+
+https://www.tombo-works.com/notes/language/elixir/phoenix/multi_language_support.html
+
+
 To start your Phoenix server:
 
   * Install dependencies with `mix deps.get`
